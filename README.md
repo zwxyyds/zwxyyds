@@ -1,7 +1,7 @@
 
 ## 🐙About Me
 
-- 👋 Hi, I'm **zhangwenxin**, an ordinary frontend programmer who enjoys exploring various exciting things, sharing knowledge, and engaging in discussions. 
+- 👋 Hi, I'm **zhangwenxin**, from hangzhou, an ordinary frontend programmer who enjoys exploring various exciting things, sharing knowledge, and engaging in discussions. 
 
 
 ## 🛠 Technology Stack
