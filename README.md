@@ -1,4 +1,5 @@
-## 🤺 About Me
+
+## 🐙About Me
 
 - 👋 Hi, I'm **zhangwenxin**, an ordinary frontend programmer who enjoys exploring various exciting things, sharing knowledge, and engaging in discussions. 
 
@@ -15,7 +16,7 @@
 
 - <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:1048334128@qq.com)
 
-## 🏆 Github Status
+## 🏆 🏆 🏆Github Status
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zwxyyds&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
